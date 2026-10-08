@@ -4,7 +4,7 @@ using namespace std;
 
 void printTitle()
 {
-    cout << "=== КОСМОПОРТ ===" << endl;
+    cout << "Зiрка" << endl;
 }
 
 void printStatus()
@@ -14,7 +14,9 @@ void printStatus()
 
 void printCrew()
 {
-    // TODO Owner
+    cout << "Медовуха — 20 золотых\n";
+    cout << "Сладкий рулет — 15 золотых\n";
+    cout << "Скума — 50 золотых\n";
 }
 
 int main()
