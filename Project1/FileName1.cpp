@@ -9,7 +9,7 @@ void printTitle()
 
 void printStatus()
 {
-    // TODO Collaborator
+	cout << "Стан: готовий до польоту" << endl;
 }
 
 void printCrew()
